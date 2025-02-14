@@ -11,5 +11,5 @@ For convenient OCR of PDFs through Gemni for non-programmers
 3. Put the PDFs in the same folder as your python files
    ![step 2](https://github.com/user-attachments/assets/e997bdb9-5983-440a-b0a3-dc0ddc8fb732)
 
-4. The code will auomatically installs everything and converts PDF into OCR-ready content in markdown format
+4. Run the code in visual studio code, it will auomatically installs everything and converts PDF into OCR-ready content in markdown format
    ![OCR result](https://github.com/user-attachments/assets/2d16c18b-2869-4f43-a6ad-f4593c0f97fd)
